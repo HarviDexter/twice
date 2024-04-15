@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.coutdown {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.coutdown-item {
+  text-align: center;
+  margin-right: 15px;
+}
